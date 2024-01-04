@@ -6,7 +6,6 @@ import { setUser } from "../features/authSlice";
 import { setCart } from "../features/cartSlice";
 import useCart from "./useCart";
 
-// import Cookies from "js-cookie";
 
 const useAuth = () => {
   const dispatch = useDispatch();
