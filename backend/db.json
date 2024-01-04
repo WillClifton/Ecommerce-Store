@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Classic White T-Shirt",
+      "price": 19.99,
+      "image": "https://source.unsplash.com/featured/?white,t-shirt"
+    },
+    {
+      "id": 2,
+      "name": "Denim Jeans",
+      "price": 49.99,
+      "image": "https://source.unsplash.com/featured/?denim,jeans"
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "price": 79.99,
+      "image": "https://source.unsplash.com/featured/?running,shoes"
+    },
+    {
+      "id": 4,
+      "name": "Leather Wallet",
+      "price": 29.99,
+      "image": "https://source.unsplash.com/featured/?leather,wallet"
+    },
+    {
+      "id": 5,
+      "name": "Smartphone Stand",
+      "price": 9.99,
+      "image": "https://source.unsplash.com/featured/?smartphone,stand"
+    },
+    {
+      "id": 6,
+      "name": "Stainless Steel Water Bottle",
+      "price": 14.99,
+      "image": "https://source.unsplash.com/featured/?stainless,steel,water,bottle"
+    },
+    {
+      "id": 7,
+      "name": "Wireless Earbuds",
+      "price": 69.99,
+      "image": "https://source.unsplash.com/featured/?wireless,earbuds"
+    },
+    {
+      "id": 8,
+      "name": "Canvas Backpack",
+      "price": 39.99,
+      "image": "https://source.unsplash.com/featured/?canvas,backpack"
+    },
+    {
+      "id": 9,
+      "name": "Desk Organizer",
+      "price": 24.99,
+      "image": "https://source.unsplash.com/featured/?desk,organizer"
+    },
+    {
+      "id": 10,
+      "name": "Coffee Mug Set",
+      "price": 19.99,
+      "image": "https://source.unsplash.com/featured/?coffee,mug,set"
+    }
+  ]
+}
